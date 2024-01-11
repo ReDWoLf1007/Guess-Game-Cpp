@@ -5,3 +5,5 @@
 4. If your guess is below the chosen number, the game will show a message "Guess Higher".
 5. Each time you guess, you are closer to the chosen number.
 6. When your guess is correct, YOU WIN.
+
+We have used do-while loop for this game.
